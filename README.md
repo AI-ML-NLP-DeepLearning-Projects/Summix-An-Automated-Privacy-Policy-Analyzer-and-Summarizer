@@ -1,8 +1,12 @@
 This repository provides the two types of summarization of privacy policies (text):
 
-
 <img src="https://user-images.githubusercontent.com/64551550/85221122-cc441100-b3ca-11ea-8452-77f1b34bbcb0.jpg" alt="Screen"
 	title="Screen" width="300" height="400" />
+
+## Dataset Scrapping
+Built a Scraper for scrapping privacy policies of 100,000 websites and applications and made the dataset.
+
+## Summarization
 
 1) Extractive Method.
 2) Abstractive Method.
@@ -30,6 +34,12 @@ Follw these steps to run the abstractive methodology:
 ## ANDROID APPLICATION
 
 Extract the Summix_Android-App.rar file and run the project on Android Studio.
+
+## Features:
+1) Search the URL, the tool will get the privacy policy of the URL.
+2) Generate Extractive Summarization of the key features of Privacy Policy in the form of Bullet Points.
+3) Generate Abstractive Summarization of the Privacy Policy.
+4) Get Top keywords of the paragraphs of the Privacy Policy text. 
 
 
 ##### THERE YOU GO ##### 

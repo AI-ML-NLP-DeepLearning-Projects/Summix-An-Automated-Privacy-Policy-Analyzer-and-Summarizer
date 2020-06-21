@@ -1,8 +1,0 @@
-Android studio me Summix ka project open kar k
-left side k options mein se Project select kar k
-
-App>java>1st option>generated_text
-
-is java file mein GetData k function mein aik socket
-ban rahi ho gi us mein host wali ip change karni hai
-apne laptop ki ip check kar k ip change kar lai

@@ -2,7 +2,7 @@ This repository provides you the two types summarization of privacy policies (te
 
 
 <img src="https://user-images.githubusercontent.com/64551550/85221122-cc441100-b3ca-11ea-8452-77f1b34bbcb0.jpg" alt="Screen"
-	title="Screen" width="150" height="290" />
+	title="Screen" width="300" height="400" />
 
 1) Extractive Method.
 2) Abstractive Method.

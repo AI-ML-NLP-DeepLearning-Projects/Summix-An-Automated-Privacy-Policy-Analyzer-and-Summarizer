@@ -1,4 +1,4 @@
-This repository provides you the two types summarization of privacy policies (text):
+This repository provides the two types of summarization of privacy policies (text):
 
 
 <img src="https://user-images.githubusercontent.com/64551550/85221122-cc441100-b3ca-11ea-8452-77f1b34bbcb0.jpg" alt="Screen"
@@ -22,7 +22,7 @@ Follw these steps to run the abstractive methodology:
 
 1)Run the seq2seq_integration_with_android_app.ipynb.
 
-2)Firsltly train the model for 100 epochs on the privacy_policies_extracted_summaries_dataset.csv dataset.
+2)Firstly train the model for 100 epochs on the privacy_policies_extracted_summaries_dataset.csv dataset.
 
 3)Then fine tune the model on the written_dataset.csv dataset.
 

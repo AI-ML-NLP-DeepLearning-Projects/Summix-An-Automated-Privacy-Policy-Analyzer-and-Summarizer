@@ -1,8 +1,7 @@
-We are about to Open Source our Project: "Automated Privacy Policy Analyzation and Summarization"
-##
-Stay Tuned People :)
+This repository provides you the two types summarization of privacy policies (text):
 
-This repository provides you the two types summarization of privacy policies:
+![FYPPoster-F19-11-D-SUMMIX](https://user-images.githubusercontent.com/64551550/85221122-cc441100-b3ca-11ea-8452-77f1b34bbcb0.jpg)
+
 
 1) Extractive Method.
 2) Abstractive Method.
